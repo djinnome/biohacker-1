@@ -27,9 +27,9 @@
 (justify-node 'J_CB b (list c))
 (justify-node 'J_BC c (list b))
 (justify-node 'J_AD d (list a))
-(justify-node 'J_DA a (list d))
+(justify-node 'J_DA a (list d nb))
 (justify-node 'J_BD d (list b))
-(justify-node 'J_DB b (list d))
+(justify-node 'J_DB b (list d na))
 
 (justify-node 'JN_UC nc (list nu))
 (justify-node 'JN_CU nu (list nc))
